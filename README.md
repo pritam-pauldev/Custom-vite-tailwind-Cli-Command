@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/TypeScript%2FJavaScript-optional-blueviolet?style=flat-square&logo=typescript" />
   <img src="https://img.shields.io/badge/PostCSS-configured-cc6699?style=flat-square&logo=postcss" />
   <img src="https://img.shields.io/badge/Autoprefixer-enabled-ff6d00?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/Inquirer-js-interactive-29abe2?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/Node.js-required-339933?style=flat-square&logo=nodedotjs" />
 </p>
 

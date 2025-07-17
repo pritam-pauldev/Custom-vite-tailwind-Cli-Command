@@ -80,6 +80,7 @@ Replaces default vite.config.js with a pre-configured version
 Uses inquirer to let you choose between JavaScript & TypeScript
 
 📦 Example Output Structure
+<detail><summary>
 my-app/
 ├── public/
 ├── src/
@@ -90,6 +91,7 @@ my-app/
 ├── postcss.config.js
 ├── index.html
 └── vite.config.js
+</summary></detail>
 
 📬 Feedback or Suggestions?
 Feel free to open issues or feature requests!

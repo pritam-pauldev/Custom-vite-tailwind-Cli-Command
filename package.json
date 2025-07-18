@@ -1,0 +1,28 @@
+{
+  "name": "create-react-tailwind",
+  "version": "1.0.0",
+  "description": "Simple CLI to create React + Vite + Tailwind CSS projects",
+  "main": "create-vite-react-tailwind.js",
+  "type": "module",
+  "bin": {
+    "create-react-tailwind": "./create-vite-react-tailwind.js"
+  },
+  "scripts": {
+    "start": "node create-vite-react-tailwind.js"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "tailwind",
+    "cli"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "prompts": "^2.4.2",
+    "shelljs": "^0.8.5"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

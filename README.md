@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Custom Next.js CLI: <code>npx create-vite-pp &lt;myApp&gt;</code></h1>
+<h1 align="center">🚀 Custom Next.js CLI: <code>npx create-vite-pp </code></h1>
 
 <p align="center">A minimal yet powerful ⚡ CLI tool to kickstart a clean <b>Vite + React</b> project with <b>Tailwind CSS</b> — in seconds.</p>
 
